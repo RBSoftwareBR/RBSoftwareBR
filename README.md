@@ -8,19 +8,6 @@ Welcome to my professional GitHub page! As a passionate and seasoned Flutter Dev
 - **English**: Fluent
 - **Spanish**: Basic
 
-## 🎓 Education
-
-- **Law** - Bachelor (incomplete) - UNOPAR
-- **Web Design** – CTE – CDI
-
-## 👨‍💻 Work History
-
-### CargoSnap - Flutter Developer (March 2022 - October 2023)
-In my role at CargoSnap, I dedicated my expertise to crafting high-quality mobile applications with the Flutter framework, significantly enhancing the cargo and shipment inspection process.
-
-### RB Software - Senior Developer (January 2016 - February 2022)
-At RB Software, I embarked on various mobile application projects, contributing to the development of startups and established companies by providing innovative and technological solutions.
-
 ## 🛠️ Projects
 
 - **CargoSnap/Inspection Request application**: A vital tool for real-time updates and communication in cargo inspection processes.
