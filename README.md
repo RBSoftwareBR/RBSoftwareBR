@@ -33,8 +33,6 @@ Welcome to my professional GitHub page! As a passionate and seasoned Flutter Dev
 
 ## 📊 GitHub Stats
 
-![Renato's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RBSoftwareBR)
-
 ![Renato's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RBSoftwareBR)
 
 ![Renato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RBSoftwareBR)
