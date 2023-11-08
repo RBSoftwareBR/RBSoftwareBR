@@ -1,4 +1,4 @@
-# Renato Augusto Bosa Filho - Flutter Developer
+# Renato Bosa - Flutter Developer
 
 Welcome to my professional GitHub page! As a passionate and seasoned Flutter Developer, I've honed my skills to deliver outstanding mobile solutions. Explore my repositories to see the projects and applications I've poured my heart into.
 
