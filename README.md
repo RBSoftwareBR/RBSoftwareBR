@@ -33,9 +33,9 @@ Welcome to my professional GitHub page! As a passionate and seasoned Flutter Dev
 
 ## 📊 GitHub Stats
 
-![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBSoftwareBR&show_icons=true&theme=radical)
+![Renato's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=RBSoftwareBR&show_icons=true&theme=radical](https://github-readme-stats-two-ivory-18.vercel.app/api?username=RBSoftwareBR&show_icons=true&theme=radical&count_private=true))
 
-![Renato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RBSoftwareBR&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-two-ivory-18.vercel.app/api/top-langs/?username=RBSoftwareBR&layout=compact&theme=radical&count_private=true&cache_seconds=60)
 
 ![Renato's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RBSoftwareBR&show_icons=true&theme=radical)
 
